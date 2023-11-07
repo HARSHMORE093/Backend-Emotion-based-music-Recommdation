@@ -15,8 +15,8 @@ An Emotion-based Music Recommendation System is a unique blend of image processi
   - Server Setup: Set up a Flask server that can receive requests from the frontend, process the emotion detection, and send back music recommendations.
  
 ## Project Links
--Frontend : https://github.com/HARSHMORE093/Frontend-Emotion-based-music-Recommdation
--Backend : https://github.com/HARSHMORE093/Backend-Emotion-based-music-Recommdation
+- Frontend : https://github.com/HARSHMORE093/Frontend-Emotion-based-music-Recommdation
+- Backend : https://github.com/HARSHMORE093/Backend-Emotion-based-music-Recommdation
 
 ## Libraries
 
